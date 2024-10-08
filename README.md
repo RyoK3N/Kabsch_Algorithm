@@ -112,6 +112,9 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
    ```bash
    https://github.com/RyoK3N/Kabsch_Algorithm
+   ```
+   
+2. Navigate to the project directory:
    ```bash
    cd Kabsch_Algorithm
    ```
